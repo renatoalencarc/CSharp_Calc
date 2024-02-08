@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Notas_ Ver_files/1.0.0": {
+        "runtime": {
+          "Notas_ Ver_files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Notas_ Ver_files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
