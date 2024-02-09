@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Notas_ Ver_files")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a112cd334ae0255b023b44d8ca8a92be6a6b1360")]
 [assembly: System.Reflection.AssemblyProductAttribute("Notas_ Ver_files")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Notas_ Ver_files")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

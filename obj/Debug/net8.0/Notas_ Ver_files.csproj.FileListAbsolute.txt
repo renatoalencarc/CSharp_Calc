@@ -12,3 +12,4 @@ C:\Users\Administrador\3D Objects\Notas_ Ver_files\obj\Debug\net8.0\refint\Notas
 C:\Users\Administrador\3D Objects\Notas_ Ver_files\obj\Debug\net8.0\Notas_ Ver_files.pdb
 C:\Users\Administrador\3D Objects\Notas_ Ver_files\obj\Debug\net8.0\Notas_ Ver_files.genruntimeconfig.cache
 C:\Users\Administrador\3D Objects\Notas_ Ver_files\obj\Debug\net8.0\ref\Notas_ Ver_files.dll
+C:\Users\Administrador\3D Objects\Notas_ Ver_files\obj\Debug\net8.0\Notas_ Ver_files.sourcelink.json
